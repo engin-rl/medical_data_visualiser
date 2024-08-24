@@ -2,7 +2,8 @@
 
 In this project, I visualized and made calculations from medical examination data using matplotlib, seaborn, and pandas.
 
-_The dataset values were collected during medical examinations._
+> [!NOTE]
+> _The dataset values were collected during medical examinations._
 
 # Data description
 
@@ -54,9 +55,3 @@ I used the dataset to explore the relationship between cardiac disease, body mea
 |   1    | overweight   |   1   | 24440 |
 |   1    |    smoke     |   0   | 32050 |
 |   1    |    smoke     |   1   |  2929 |
-
-
-![Figure_1](https://github.com/user-attachments/assets/1a0081f7-8df9-43b2-853c-7d2f666afc78)
-
-![Figure_2](https://github.com/user-attachments/assets/dc7de831-f084-48b8-bedb-951b6bb8c886)
-
